@@ -10,6 +10,10 @@ virtualenv -p python3 .venv3
 source .venv3/bin/activate
 
 # Install dependencies
-
-
+pip install -r requirements.txt
 ```
+
+## Launch jupyter
+
+
+
